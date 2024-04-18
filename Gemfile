@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.5.3'
+ruby '3.1.2'
 gem 'simple_form'
 gem 'cloudinary', '~> 1.9.1'
 gem 'carrierwave', '~> 1.2'
